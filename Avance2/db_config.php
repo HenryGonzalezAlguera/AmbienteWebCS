@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "pma"; 
+$username = "root"; 
 $password = "admin1234";
 $database = "reduccion_desperdicio";
 
